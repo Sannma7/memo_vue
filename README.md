@@ -10,7 +10,7 @@ npm install
 npm run build
 ```
 
-### Lints and fixes files
+### start
 ```
 npm start
 ```
